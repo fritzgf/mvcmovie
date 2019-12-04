@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\MvcMovie",
+    "\\MvcMovie\\MvcMovie\\obj",
+    "\\MvcMovie\\MvcMovie\\obj\\Debug",
+    "\\MvcMovie\\MvcMovie\\obj\\Debug\\netcoreapp3.0",
+    "\\MvcMovie\\MvcMovie\\obj\\Debug\\netcoreapp3.0\\Razor",
+    "\\MvcMovie\\MvcMovie\\obj\\Debug\\netcoreapp3.0\\Razor\\Views",
+    "\\MvcMovie\\MvcMovie\\obj\\Debug\\netcoreapp3.0\\Razor\\Views\\Shared",
+    "\\MvcMovie\\MvcMovie\\Views",
+    "\\MvcMovie\\MvcMovie\\Views\\Movies"
+  ],
+  "SelectedNode": "\\MvcMovie\\MvcMovie\\Views\\_ViewImports.cshtml",
+  "PreviewInSolutionExplorer": false
+}

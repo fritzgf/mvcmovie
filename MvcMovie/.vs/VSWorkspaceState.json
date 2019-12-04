@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\Data",
+    "\\MvcMovie\\Views",
+    "\\MvcMovie\\Views\\HelloWorld",
+    "\\MvcMovie\\Views\\Home",
+    "\\MvcMovie\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcMovie\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
